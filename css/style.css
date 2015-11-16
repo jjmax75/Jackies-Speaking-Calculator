@@ -1,0 +1,14 @@
+body {
+  background: #fafafa;
+  color: #000000;
+  font-size: 16px;
+  min-width: 400px;
+}
+
+.can-speak {
+  color: #E1163C;
+}
+
+h1 {
+  font-family: "Share Tech Mono", sans-serif;
+}
